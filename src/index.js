@@ -1,9 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const Home = () => {
-  return (
-/* Add NavLink to importer */
 import { BrowserRouter as Router, Route, NavLink } from 'react-router-dom';
 
 /* Add basic styling for NavLinks */
